@@ -51,6 +51,9 @@ h2{
     font-family: "Montserrat", sans-serif;
     color: lightseagreen;
 }
+h3{
+    color: lightseagreen;
+}
 hr{
     border: dotted lightseagreen 6px;
     border-bottom: none;
